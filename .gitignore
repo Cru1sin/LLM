@@ -8,6 +8,10 @@
 .vscode
 dist
 
+# 项目文件
+output/
+knowledge/
+
 # Python
 __pycache__/
 *.py[cod]
